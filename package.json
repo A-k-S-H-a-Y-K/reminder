@@ -1,0 +1,14 @@
+{
+  "name": "reminder",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "author": "AKSHAY DEV",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "reminder": "^0.1.1"
+  }
+}
